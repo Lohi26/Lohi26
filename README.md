@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" style="left: 100px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lohita+chandrasekaran!" alt="Hi 👋, I'm Lohita"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lohita+Chandrasekaran!" alt="Hi 👋, I'm Lohita"/>
 </h1>
 <h3 align="center" style="color:black; font-weight: bolder;">A passionate and a learning Full Stack Web Developer from India</h3>
 
